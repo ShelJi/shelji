@@ -2,4 +2,4 @@
 with expertise in Django and Django REST Framework.
 
 [My portfolio ↗️](https://sheljin.netlify.app)
-[shelj73@gmail.com](mailto:shelj73@gmail.com)
+[shelj.dev@gmail.com](mailto:shelj.dev@gmail.com)
