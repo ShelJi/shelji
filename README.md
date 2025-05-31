@@ -5,4 +5,4 @@ with expertise in Django and Django REST Framework.
 [shelj.dev@gmail.com](mailto:shelj.dev@gmail.com)
 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=shelji&left_color=green&right_color=red)
+<img align="left" src="https://profile-counter.glitch.me/shelji/count.svg" />
