@@ -8,7 +8,12 @@ with expertise in React, Django and Django REST Framework.
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://shelj.in)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sheljin-sa/)
+
+
+#### 📜 Github stats:
+
+![GITHUB Stats](https://raw.githubusercontent.com/shelji/github-stats/master/generated/overview.svg#gh-dark-mode-only) ![GITHUB Languages](https://raw.githubusercontent.com/shelji/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![GITHUB Stats](https://raw.githubusercontent.com/shelji/github-stats/master/generated/overview.svg#gh-light-mode-only) ![GITHUB Languages](https://raw.githubusercontent.com/shelji/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
 ![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2FShelJi&label=Totalvisits&icon=github&color=%23198754)
 
