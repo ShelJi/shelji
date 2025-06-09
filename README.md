@@ -1,5 +1,5 @@
 ## I'm a Full-Stack Developer from India
-with expertise in React, Django and Django REST Framework.
+with expertise in React, Django and Django REST Framework (API).
 
 
 [https://shelj.in](https://shelj.in)
