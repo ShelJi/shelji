@@ -4,7 +4,7 @@ with expertise in React, Django and Django REST Framework (API).
 
 [https://shelj.in](https://shelj.in)
 
-[shelj.dev@gmail.com] :)(mailto:shelj.dev@gmail.com)
+[shelj.dev@gmail.com](mailto:shelj.dev@gmail.com) :)
 
 
 
